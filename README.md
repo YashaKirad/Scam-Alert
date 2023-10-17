@@ -118,6 +118,20 @@ Reference :<br> https://www.bajajfinserv.in/insurance/secure-yourself-from-atm-f
 </details>
 
 <hr>
+## 5. Tech Support Scam 
+<details>Tech support scams involve scammers impersonating tech support agents or companies, often through unsolicited calls, pop-up messages, or emails. They claim to be from reputable tech firms, creating a sense of urgency or fear by stating that the victim's computer is infected or at risk. They request remote access to the victim's computer and show fake diagnostic results to "prove" the problem. </details>
+Scenario:
+
+John, an elderly computer user, receives a phone call from someone claiming to be a Microsoft tech support representative. The caller informs him that his computer is infected with a dangerous virus that needs immediate attention. The caller uses technical jargon and insists that John must take action to prevent data loss and further damage.
+
+Feeling alarmed and unsure about computer security, John agrees to follow the instructions. The scammer directs John to a website that installs remote access software on his computer, allowing the scammer to take control. The scammer proceeds to show fabricated diagnostic results, indicating malware infections and system vulnerabilities.
+
+To "fix" these issues, the scammer demands a payment of $300 for immediate assistance. He pressures John to provide his credit card information. An anxious John complies, thinking he's preventing a major computer disaster.
+
+Unbeknownst to John, the scammer not only received his payment details but also gained access to his personal data. John's financial security is at risk, and he may continue to receive calls, requesting more money for ongoing support.
+
+This example illustrates how tech support scammers exploit fear and misinformation to manipulate individuals into paying for fake services or revealing sensitive information. It emphasizes the importance of verifying the legitimacy of such calls and never granting remote access to unsolicited contacts.
+
 
 For any query contact us here - [instagram](https://www.instagram.com/lets__code/) <br>
 You can also dm us on [Linkedin](https://www.linkedin.com/company/lets-code-forever)
